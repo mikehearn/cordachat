@@ -1,7 +1,0 @@
-.gradle
-.idea/compiler.xml 
-.idea/dictionaries 
-.idea/*.xml
-.idea/libraries
-.idea/modules
-cordachat.iml
